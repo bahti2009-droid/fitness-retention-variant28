@@ -266,7 +266,7 @@ The package now includes direct PNG exports of RF importance, t-SNE, and UMAP fr
 | Does 5% contamination mean 5% true anomalies? | No. It sets an algorithmic threshold; no verified anomaly labels are available. |
 | Which business error is more expensive? | It depends on validated costs. A false positive here is missed inactivity; the 5-to-1 example is an assumption. |
 | Does the negative notification coefficient justify fewer messages? | No. It is a conditional association in simulated data. An A/B test is needed to evaluate a causal intervention. |
-| Have all LMS submission files been produced? | The app, two report texts, defense plan, and two executed standalone notebooks are included. The notebooks can be uploaded to Colab. Public sharing links and a GitHub repository still need their actual account destinations. |
+| Have all LMS submission files been produced? | The app, two report texts, defense plan, and two executed standalone notebooks are included. The public GitHub repository and both verified Colab entry points are linked in README. LMS submission has not been performed. |
 
 ## Requirement-to-evidence mapping
 
@@ -276,6 +276,6 @@ The package now includes direct PNG exports of RF importance, t-SNE, and UMAP fr
 | Functionality and stability (20) | Bounded inputs, missingness handling, successful nonlinear maps/export | Manual demonstration is not exhaustive testing |
 | Testing and results (15) | CV, test metrics, baseline, matrices, sensitivity, anomaly overlap | No fabricated performance or unrun automated tests |
 | UI/UX (10) | English sidebar, tabs, sliders, live plots | Demonstrated locally; no public deployment claimed |
-| Code, GitHub, documentation (10) | `app.py`, dependencies, README, evidence files | A repository still needs actual upload; no GitHub URL is invented |
+| Code, GitHub, documentation (10) | `app.py`, dependencies, README, evidence files | Published at [bahti2009-droid/fitness-retention-variant28](https://github.com/bahti2009-droid/fitness-retention-variant28); both notebooks open in Colab |
 | Originality and practical value (5) | Integrated fitness use case, error-cost scenario, segment hypotheses | No untested business uplift claim |
 | Defense materials (10) | This 12-slide plan, notes, figure instructions, Q&A | This is a plan, not a rendered PowerPoint file |

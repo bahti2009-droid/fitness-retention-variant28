@@ -246,7 +246,7 @@ This study analyzed 800 simulated users and three numerical features. Median-imp
 
 ## Evidence and submission note
 
-The K tables, profiles, PCA values, and default anomaly agreement are directly supported by archived CSVs. The original ZIP lacked t-SNE/UMAP images and coordinates. Figures U8–U9 now include direct application PNG exports. The [standalone unsupervised notebook](../notebooks/Fitness_Retention_Unsupervised.ipynb), executed locally in the project environment, reproduces the diagnostics and saves all four embedding coordinate files. It can be uploaded to Google Colab; no Google-hosted execution or public Colab URL is claimed.
+The K tables, profiles, PCA values, and default anomaly agreement are directly supported by archived CSVs. The original ZIP lacked t-SNE/UMAP images and coordinates. Figures U8–U9 now include direct application PNG exports. The [standalone unsupervised notebook](../notebooks/Fitness_Retention_Unsupervised.ipynb), executed locally in the project environment, reproduces the diagnostics and saves all four embedding coordinate files. It can be uploaded to Google Colab; no Google-hosted execution is claimed. The published notebook opens directly through this verified [Google Colab link](https://colab.research.google.com/github/bahti2009-droid/fitness-retention-variant28/blob/main/notebooks/Fitness_Retention_Unsupervised.ipynb).
 
 ## References
 
