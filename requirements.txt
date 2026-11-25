@@ -1,0 +1,7 @@
+# Python 3.11 or 3.12 recommended (UMAP/Numba compatibility).
+streamlit>=1.40,<2.0
+numpy>=1.26,<3.0
+pandas>=2.2,<3.0
+scikit-learn>=1.6,<2.0
+plotly>=5.24,<7.0
+umap-learn>=0.5.7,<0.6

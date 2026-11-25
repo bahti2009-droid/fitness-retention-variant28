@@ -1,0 +1,14 @@
+[
+  {
+    "notebook": "Fitness_Retention_Supervised.ipynb",
+    "code_cells": 13,
+    "elapsed_seconds": 1.8272762298583984,
+    "status": "completed"
+  },
+  {
+    "notebook": "Fitness_Retention_Unsupervised.ipynb",
+    "code_cells": 13,
+    "elapsed_seconds": 11.32130217552185,
+    "status": "completed"
+  }
+]

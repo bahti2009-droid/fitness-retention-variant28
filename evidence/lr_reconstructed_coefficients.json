@@ -1,0 +1,25 @@
+{
+  "coefficients": {
+    "intercept": 1.6080646631073507,
+    "workouts": 1.1620548388334664,
+    "streak": 1.519783874367861,
+    "notifications": -0.24617906204477344
+  },
+  "max_logit_residual": 2.071232074740692e-12,
+  "medians": {
+    "workouts": 2.0,
+    "streak": 4.0,
+    "notifications": 9.0
+  },
+  "means": {
+    "workouts": 2.8296875,
+    "streak": 8.484375,
+    "notifications": 9.8
+  },
+  "scales": {
+    "workouts": 2.665882809191685,
+    "streak": 13.86530312901146,
+    "notifications": 5.7763526554392435
+  },
+  "method": "OLS reconstruction of exported LR log-odds using training-only median-imputed standardized inputs; no model refit or label tuning."
+}

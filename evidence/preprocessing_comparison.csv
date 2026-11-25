@@ -1,0 +1,5 @@
+imputer,scaled,K,silhouette
+median,False,2,0.7282980739046567
+median,True,2,0.44568275808021773
+mean,False,2,0.7257195953683413
+mean,True,2,0.4339396160672031
